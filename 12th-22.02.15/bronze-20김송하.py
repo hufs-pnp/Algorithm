@@ -1,4 +1,3 @@
-
 def cycle(n):
     goal = n
     n1 = int(n//10)
